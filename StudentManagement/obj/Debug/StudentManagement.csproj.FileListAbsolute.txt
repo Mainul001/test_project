@@ -1,0 +1,9 @@
+F:\luniam_workspace\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+F:\luniam_workspace\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+F:\luniam_workspace\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+F:\luniam_workspace\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+F:\luniam_workspace\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.Cache
+F:\luniam_workspace\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+F:\luniam_workspace\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+F:\luniam_workspace\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+F:\luniam_workspace\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
